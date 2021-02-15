@@ -1,0 +1,6 @@
+$Port proxi 5888
+Mongo //tr-ip 00000000
+TryTime conection0
+(Port)000
+SimbaToZetroxToOnyx
+GalaxyBack
